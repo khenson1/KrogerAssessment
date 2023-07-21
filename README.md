@@ -6,7 +6,7 @@ This assessment had two tasks to complete; The first task was to load all of the
 
 ## Task 1: Loading the Hours by Task File into one sheet
 ### Hours by Task File
-![Screen Shot 2023-07-21 at 5 37 35 AM](https://github.com/khenson1/KrogerAssessment/assets/86619648/d83c798c-4e23-4266-b40e-a5d8e593a11e)
+![Screen Shot 2023-07-21 at 5 37 35 AM](https://github.com/khenson1/KrogerAssessment/assets/86619648/0208648a-256e-4e10-b77a-3e0f85807c46)
 For my analysis, I decided to combine all three data files into one master sheet. This allowed me to be able to create multiple data frames from a single data frame.
 
 ## Task 2: My 3 Insights
@@ -14,19 +14,24 @@ From my analysis, I chose three different categories and sought to show the time
 
 ### Cleaning
 #### Highest and lowest percentage of Cleaning
-![Screen Shot 2023-07-21 at 6 28 11 AM](https://github.com/khenson1/KrogerAssessment/assets/86619648/240801d9-5eab-427d-bf13-7e08cd06e21e)
-![Screen Shot 2023-07-21 at 6 27 56 AM](https://github.com/khenson1/KrogerAssessment/assets/86619648/d3f7cd91-8a74-448f-b27a-21f6a11c46b9)
+![Screen Shot 2023-07-21 at 6 28 11 AM](https://github.com/khenson1/KrogerAssessment/assets/86619648/7b052568-6690-4874-810c-6334be72263d)
+![Screen Shot 2023-07-21 at 6 27 56 AM](https://github.com/khenson1/KrogerAssessment/assets/86619648/b6596a21-7db5-4370-8bf4-d5ceef53ed55)
+
+
 
 ![Uploading Screen Shot 2023-07-21 at 6.28.11 AM.png…]()
 ### Stocking
 #### Highest and Lowest Percentage of Stocking
-![Screen Shot 2023-07-21 at 6 29 04 AM](https://github.com/khenson1/KrogerAssessment/assets/86619648/9c4b6202-b8c9-4c88-a316-4525ae2a3e10)
-![Screen Shot 2023-07-21 at 6 28 22 AM](https://github.com/khenson1/KrogerAssessment/assets/86619648/280f2361-1a80-4f03-b7f2-e4e3d1d56103)
+![Screen Shot 2023-07-21 at 6 28 22 AM](https://github.com/khenson1/KrogerAssessment/assets/86619648/00d93d50-c6ca-4634-943b-705620565f78)
+![Screen Shot 2023-07-21 at 6 29 04 AM](https://github.com/khenson1/KrogerAssessment/assets/86619648/19f0a2d3-f1d3-4be5-9781-08750e37eac2)
+
+
 
 ### Customer Service
 #### Highest and Lowest Percentage of Customer Service
-![Screen Shot 2023-07-21 at 6 29 12 AM](https://github.com/khenson1/KrogerAssessment/assets/86619648/0b53413b-3fbf-4203-b13d-a26ac7a46333)
-![Screen Shot 2023-07-21 at 6 30 53 AM](https://github.com/khenson1/KrogerAssessment/assets/86619648/b840c763-6e68-49b2-a341-874484d4a2cd)
+![Screen Shot 2023-07-21 at 6 29 12 AM](https://github.com/khenson1/KrogerAssessment/assets/86619648/1411ac2f-3ebc-4500-bd85-f88390e5d854)
+![Screen Shot 2023-07-21 at 6 30 53 AM](https://github.com/khenson1/KrogerAssessment/assets/86619648/a779dd8f-9328-409a-85b6-1dfd729e28a9)
+
 
 
 
